@@ -1,0 +1,14 @@
+# Vivado project build artifacts
+vganew/vganew.runs/
+vganew/vganew.cache/
+vganew/vganew.hw/
+vganew/vganew.ip_user_files/
+vganew/vganew.sim/
+vganew/.Xil/
+*.log
+*.jou
+*.str
+
+# OS files
+Thumbs.db
+.DS_Store
